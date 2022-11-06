@@ -3,9 +3,6 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=i-yam-three" alt="i-yam-three" /></a> </p>
 
-<img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="150">
-
-
 <p align="left"> <a href="https://twitter.com/i_yam_three_" target="blank"><img src="https://img.shields.io/twitter/follow/i_yam_three_?logo=twitter&style=for-the-badge" alt="i_yam_three_" /></a> </p>
 
 - 🔭 I’m currently working on **EHR - React Native Application**
@@ -50,3 +47,5 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=i-yam-three&show_icons=true&locale=en" alt="i-yam-three" /></p>
 <br><br>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=i-yam-three&" alt="i-yam-three" /></p>
+<img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="150">
+
