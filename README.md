@@ -47,3 +47,6 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=i-yam-three&show_icons=true&locale=en" alt="i-yam-three" /></p>
 <br><br>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=i-yam-three&" alt="i-yam-three" /></p>
+<p align="center">
+</p>	
+<img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="150">
